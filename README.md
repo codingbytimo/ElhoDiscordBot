@@ -18,6 +18,6 @@ If you have an idea for a feature just open an issue or implement it yourself ;)
 
 Also if you find something in the code that doesnt seem right to you just open an issue and I will have a look at it.
 
-[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/tterb/Hyde/issues)
+[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/codingbytimo/ElhoDiscordBot/issues)
 
-[Last Commit](https://img.shields.io/github/last-commit/codingbytimo/ElhoDiscordBot)
+(https://img.shields.io/github/last-commit/codingbytimo/ElhoDiscordBot)
