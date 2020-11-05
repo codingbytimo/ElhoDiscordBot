@@ -1,7 +1,9 @@
 # ElhoDiscordBot
 Elho is a little bot for Discord I made with [JDA](https://github.com/DV8FromTheWorld/JDA)
 
-![Elho](Assets/Elho.png)
+<img src="Assets/Elho.png"
+     alt="Elho Icon"
+     style="float: middle; margin-right: 10px; margin-left: 10px" />
 
 # Commands
 Elho is currently packed with some commands:
